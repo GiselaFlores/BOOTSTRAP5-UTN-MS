@@ -1,0 +1,14 @@
+.violeta{
+    background-color: blueviolet;
+    border-color: indigo;
+}
+
+button:hover{
+    background-color: mediumpurple!important;
+    border-color: indigo;
+    color: indigo;
+}
+
+.card{
+    margin: 10px 20px;
+}
